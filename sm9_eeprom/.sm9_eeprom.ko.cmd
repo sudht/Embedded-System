@@ -1,0 +1,1 @@
+cmd_/cygdrive/c/AndroXStudio/workspace/sm9_eeprom/sm9_eeprom.ko := arm-linux-androideabi-ld -EL -r                                   -T /platform/linux/scripts/module-common.lds --build-id   -o /cygdrive/c/AndroXStudio/workspace/sm9_eeprom/sm9_eeprom.ko /cygdrive/c/AndroXStudio/workspace/sm9_eeprom/sm9_eeprom.o /cygdrive/c/AndroXStudio/workspace/sm9_eeprom/sm9_eeprom.mod.o

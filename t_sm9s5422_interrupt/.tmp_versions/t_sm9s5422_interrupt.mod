@@ -1,0 +1,2 @@
+/cygdrive/c/AndroXStudio/workspace/t_sm9s5422_interrupt/t_sm9s5422_interrupt.ko
+/cygdrive/c/AndroXStudio/workspace/t_sm9s5422_interrupt/t_sm9s5422_interrupt.o
